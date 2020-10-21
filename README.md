@@ -15,4 +15,4 @@
 
 > [![Neuraxio](https://cdn.shopify.com/s/files/1/0277/9958/4838/files/logo_v1_cropped_200x.png)](https://github.com/Neuraxio)
 > 
-> Founder, CEO, Machine Learning Expert @ [Neuraxio Inc.](https://github.com/Neuraxio)
+> Guillaume Chevalier, Founder / CEO / Machine Learning Expert @ [Neuraxio Inc.](https://github.com/Neuraxio)
