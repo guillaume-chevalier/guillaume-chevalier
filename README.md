@@ -13,4 +13,9 @@ Connect with me on LinkedIn: https://ca.linkedin.com/in/chevalierg
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Business Process of Machine Learning, with AutoML](https://www.neuraxio.com/blogs/news/the-business-process-of-machine-learning-with-automl)
+- [Structuring Machine Learning Code: Design Patterns &amp; Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code)
+- [How Machine Learning Will Improve the Workforce](https://www.neuraxio.com/blogs/news/how-machine-learning-will-improve-the-workforce)
+- [How to unit test machine learning code?](https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code)
+- [Our top learning resources for AI programmers](https://www.neuraxio.com/blogs/news/our-top-learning-resources-for-ai-programmers)
 <!-- BLOG-POST-LIST:END -->
