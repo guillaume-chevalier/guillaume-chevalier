@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Guillaume Chevalier.
+## Hi there 👋 I'm Guillaume Chevalier.
 
 With more than 10 years of coding experience, having worked for more than 30 companies, and speaking at more than 30 tech conferences and tech events, my profile is atypical in the sense that I am extroverted and that I like interacting with people. I had already worked with more than 10 programming languages before starting my software engineering bachelor, as I have always worked in the software industry from the moment I finished secondary school (a.k.a. high school). 
 
@@ -8,5 +8,9 @@ In the end, I remain a technical professional who excels at writing clean code, 
 
 To wrap it up, I am an extroverted coder who have experienced variety and who likes to interact with people. 
 
-Connect with me on LinkedIn: 
-- https://ca.linkedin.com/in/chevalierg
+Connect with me on LinkedIn: https://ca.linkedin.com/in/chevalierg
+
+
+### Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
