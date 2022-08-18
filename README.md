@@ -12,6 +12,8 @@ Connect with me on LinkedIn: https://ca.linkedin.com/in/chevalierg
 
 
 ### Recent blog posts
+
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 - [The Business Process of Machine Learning, with AutoML](https://www.neuraxio.com/blogs/news/the-business-process-of-machine-learning-with-automl)
 - [Structuring Machine Learning Code: Design Patterns &amp; Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code)
