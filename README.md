@@ -1,17 +1,12 @@
 ### Hi there 👋 I'm Guillaume Chevalier.
 
-<!--
-**guillaume-chevalier/guillaume-chevalier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+With more than 10 years of coding experience, having worked for more than 30 companies, and speaking at more than 30 tech conferences and tech events, my profile is atypical in the sense that I am extroverted and that I like interacting with people. I had already worked with more than 10 programming languages before starting my software engineering bachelor, as I have always worked in the software industry from the moment I finished secondary school (a.k.a. high school). 
 
-- 🔭 I’m currently working on [Neuraxio's Transaction Forescasting Product](https://www.neuraxio.com/pages/sales-forecasting-product-to-trigger-marketing-actions); 
-- 🌱 I’m currently learning how to become a more efficient entrepreneur;
-- 👯 I’m looking to collaborate on the [Neuraxle open-source ML framework](https://github.com/Neuraxio/Neuraxle) that is the backbone of many business projects;
-- 🤔 I’m looking for scaling my business with you; 
-- 💬 Ask me about: entrepreneurship, business projects, hiring, citation requests, speaking at events, partnerships, and so forth;
-- 📫 How to reach me: [on your favorite social media](https://linktr.ee/gchevalier) or on [Neuraxio's Slack Workspace](https://join.slack.com/t/neuraxio/shared_invite/zt-8lyw42c5-4PuWjTT8dQqeFK3at1s_dQ);
-- ⚡ Fun fact: I love to dance.
+Being the founder of my own company for more than 4 years now, and having offered machine learning software services to more than 15 companies and training to an additional 10 companies in this time frame, I understand how to conclude business deals, manage open-source code, licensing, and royalties, as well as wearing every hats. I programmed half of my time in these past 4 years, while the other half was being an entrepreneur. 
 
-> [![Neuraxio](https://cdn.shopify.com/s/files/1/0277/9958/4838/files/logo_v0_square_transparent_autocropped_200x.png)](https://github.com/Neuraxio)
-> 
-> Guillaume Chevalier, Founder / CEO / Machine Learning Expert @ [Neuraxio Inc.](https://github.com/Neuraxio)
+In the end, I remain a technical professional who excels at writing clean code, ensuring software quality in teams, and guiding others. I prefer leading positions than management positions. Being the main author of various open-source projects that have more than 7800 stars in total, I love contributing to open-source projects. 
+
+To wrap it up, I am an extroverted coder who have experienced variety and who likes to interact with people. 
+
+Connect with me on LinkedIn: 
+- https://ca.linkedin.com/in/chevalierg
