@@ -15,9 +15,9 @@ Connect with me on LinkedIn: https://ca.linkedin.com/in/chevalierg
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
-- [Young entrepreneurs in Québec](https://guillaume-chevalier.com/young-entrepreneurs-in-quebec/?utm_source=rss&utm_medium=rss&utm_campaign=young-entrepreneurs-in-quebec)
-- [No Fear for Deep Learning](https://guillaume-chevalier.com/no-fear-for-deep-learning/?utm_source=rss&utm_medium=rss&utm_campaign=no-fear-for-deep-learning)
-- [LinkedIn Connections Growth Analysis](https://guillaume-chevalier.com/assess-linkedin-connections-growth-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=assess-linkedin-connections-growth-analysis)
-- [The limits of Deep Learning, and its future](https://guillaume-chevalier.com/limits-of-deep-learning-and-its-future/?utm_source=rss&utm_medium=rss&utm_campaign=limits-of-deep-learning-and-its-future)
-- [Spiking Neural Network &lpar;SNN&rpar; with PyTorch: towards bridging the gap between deep learning and the human brain](https://guillaume-chevalier.com/spiking-neural-network-snn-with-pytorch-where-backpropagation-engenders-stdp-hebbian-learning/?utm_source=rss&utm_medium=rss&utm_campaign=spiking-neural-network-snn-with-pytorch-where-backpropagation-engenders-stdp-hebbian-learning)
+- [The Business Process of Machine Learning, with AutoML](https://www.neuraxio.com/blogs/news/the-business-process-of-machine-learning-with-automl)
+- [Structuring Machine Learning Code: Design Patterns &amp; Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code)
+- [How Machine Learning Will Improve the Workforce](https://www.neuraxio.com/blogs/news/how-machine-learning-will-improve-the-workforce)
+- [How to unit test machine learning code?](https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code)
+- [Our top learning resources for AI programmers](https://www.neuraxio.com/blogs/news/our-top-learning-resources-for-ai-programmers)
 <!-- BLOG-POST-LIST:END -->
