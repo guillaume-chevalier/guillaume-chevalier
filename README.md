@@ -1,23 +1,11 @@
 ## Hi there 👋 I'm Guillaume Chevalier.
 
-With more than 10 years of coding experience, having worked for more than 30 companies, and speaking at more than 30 tech conferences and tech events, my profile is atypical in the sense that I am extroverted and that I like interacting with people. I had already worked with more than 10 programming languages before starting my software engineering bachelor, as I have always worked in the software industry from the moment I finished secondary school (a.k.a. high school). 
+I'm an enthusiastic, audacious and innovative AI Expert with over 11 years of experience in AI, specializing in NLP, Generative AI, and Deep Learning. It was also a decade ago that I committed to specializing in AI from that moment onward. Combining analytical rigor with a creative and open-minded approach, I thrive on exploring new ideas and fostering meaningful connections to drive technological advancements. 
 
-Being the founder of my own company for more than 4 years now, and having offered machine learning software services to more than 15 companies and training to an additional 10 companies in this time frame, I understand how to conclude business deals, manage open-source code, licensing, and royalties, as well as wearing every hats. I programmed half of my time in these past 4 years, while the other half was being an entrepreneur. 
+- Founded Neuraxio Inc., delivered cutting-edge machine learning services to numerous companies by leveraging expansive creativity and collaborative innovation.
+- Authored open-source projects with over 8000 stars on GitHub and publications with more than 560 citations on [Google Scholar](https://scholar.google.com/citations?user=RzL_a1gAAAAJ&hl=en), I love contributing to the AI community and promoting AI knowledge and AI adoption, while constantly pushing the frontiers of innovation.
+- Consistently recognized as a high achiever in R&D projects, coding competitions and hackathons, harnessing curiosity and intellectual flexibility to deliver impactful AI solutions and advance the field.
 
-In the end, I remain a technical professional who excels at writing clean code, ensuring software quality in teams, and guiding others. I prefer leading positions than management positions. Being the main author of various open-source projects that have more than 7800 stars in total, I love contributing to open-source projects. 
-
-To wrap it up, I am an extroverted coder who have experienced variety and who likes to interact with people. 
+Passionate about aligning my work with core values, I believe in making a positive impact through technology and collaboration. Known for my vibrant energy and diplomatic leadership style, I am dedicated to building strong professional relationships & projects, loving to contribute meaningfully to my field.
 
 Connect with me on LinkedIn: https://ca.linkedin.com/in/chevalierg
-
-
-### Recent blog posts
-
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- BLOG-POST-LIST:START -->
-- [The Business Process of Machine Learning, with AutoML](https://www.neuraxio.com/blogs/news/the-business-process-of-machine-learning-with-automl)
-- [Structuring Machine Learning Code: Design Patterns &amp; Clean Code](https://www.neuraxio.com/blogs/news/structuring-machine-learning-code-design-patterns-clean-code)
-- [How Machine Learning Will Improve the Workforce](https://www.neuraxio.com/blogs/news/how-machine-learning-will-improve-the-workforce)
-- [How to unit test machine learning code?](https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code)
-- [Our top learning resources for AI programmers](https://www.neuraxio.com/blogs/news/our-top-learning-resources-for-ai-programmers)
-<!-- BLOG-POST-LIST:END -->
